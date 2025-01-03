@@ -2,6 +2,7 @@
 <ul>
   <li>I'm Bhuvan, a Software Engineer having 2+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
   <li>Checkout my GitHub repositories on <a href = "https://github.com/bhuvanthirwani?tab=repositories">Repositories</a> and afcourse my favourite <a href = "https://github.com/bhuvanthirwani/myleetcode">Leetcode Submissions</a>. 
+    <li> Actively seeking for Software Summer Internships 2025 in United States of America</li>
   <li>Follow me on <a href="https://www.linkedin.com/in/dev-hax-codes/">LinkedIn</a>
 </ul>
 
