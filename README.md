@@ -7,6 +7,6 @@
 </ul>
 
 &nbsp;![](https://komarev.com/ghpvc/?username=bhuvanthirwani&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvanthirwani&show_icons=true&locale=en" alt="bhuvanthirwani" />
+<!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvanthirwani&show_icons=true&locale=en" alt="bhuvanthirwani" />!--->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanthirwani&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
